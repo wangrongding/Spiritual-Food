@@ -13,22 +13,23 @@
 ---
 
 _斜体_
+<i>斜体</i>
 **粗体**
+<b>粗体</b>
 **_粗斜体_**
 ~~删除线~~
-<u>删除线</u>
-<i>删除线</i>
-<b>删除线</b>
-<a href="#">删除线</a>
+<u>下划线</u>
+<a href="#">链接标签</a>
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
-<em>qwe</em> <sup>qwe</sup> <sub>asdf<sub>
+<em>qwe</em> <sup>qwe</sup> <sub>adsk<sub>
 <br>
-<em>qwe</em> <sup>qwe</sup> <sub>asdf<sub>
+<em>qwe</em> <sup>qwe</sup> <sub>sade<sub>
 
 ---
 
 [插入链接](http://www.baidu.com "这是一个title")
 <http://www.baidu.com>
+
 [插入链接 2][插入的链接]
 
 [插入的链接]: "http://www.baidu.com" "baidu"
